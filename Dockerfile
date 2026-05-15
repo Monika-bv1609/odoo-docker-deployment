@@ -5,5 +5,5 @@ CMD odoo \
     --db_port=5432 \
     --db_user=neondb_owner \
     --db_password=npg_am8GxvoTjyD9 \
-    -d neondb \
+    -d odoodb \
     --init=base
